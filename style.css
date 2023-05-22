@@ -18,7 +18,7 @@ background-color: black;
     
     width: 100vw;
     height: 100vh;
-    margin: 100px auto;
+    margin: 80px auto;
     
     background-color: black;
     border-radius: 0px;
@@ -28,7 +28,7 @@ background-color: black;
     display: flex;
     position: absolute;
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
     transition: 
     all 1s;
     overflow: hidden;
@@ -42,7 +42,7 @@ background-color: black;
 }
 .item img{
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
     border-radius: 0px;
    
 }

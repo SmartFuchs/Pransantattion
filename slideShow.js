@@ -1,40 +1,43 @@
 const imagem = [
     {
-        'id': '1' , 'url': '1.jpg'
+        'id': '1' , 'url': 'IMG_1017.jpeg'
     },
     {
-        'id': '2' , 'url': '2.jpg'
+        'id': '2' , 'url': 'IMG_1018.jpeg'
     },
     {
-        'id': '3' , 'url': '3.jpg'
+        'id': '3' , 'url': 'IMG_1019.jpeg'
     },
     {
-        'id': '4' , 'url': '4.jpg'
+        'id': '4' , 'url': 'IMG_1020.jpeg'
     },
    {
-        'id': '5' , 'url': '5.jpg'
+        'id': '5' , 'url': 'IMG_1021.jpeg'
     },
     {
-        'id': '6' , 'url': '6.jpg'
+        'id': '6' , 'url': 'IMG_1022.jpeg'
     },
      {
-        'id': '7' , 'url': '7.jpg'
+        'id': '7' , 'url': 'IMG_1023.jpeg'
     },
     {
-        'id': '8' , 'url': '8.jpg'
+        'id': '8' , 'url': 'IMG_1024.jpeg'
     },
    {
-        'id': '9' , 'url': '9.jpg'
+        'id': '9' , 'url': 'IMG_1025.jpeg'
     },
    {
-        'id': '10' , 'url': '10.jpg'
+        'id': '10' , 'url': 'IMG_1026.jpeg'
     },
     {
-        'id': '11' , 'url': 'SSG_profile1.webp'
+        'id': '11' , 'url': 'IMG_1027.jped'
     },
      {
-        'id': '12' , 'url': '11.jpg'
+        'id': '12' , 'url': 'SSG_profile1.webp'
     },
+    {
+        'id': '13' , 'url': 'IMG_1028.jpeg'
+    }, 
     
 ]
 

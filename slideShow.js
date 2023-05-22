@@ -32,7 +32,6 @@ const imagem = [
     {
         'id': '11' , 'url': 'IMG_1027.jped'
     },
-   
     {
         'id': '12' , 'url': 'IMG_1028.jpeg'
     }, 

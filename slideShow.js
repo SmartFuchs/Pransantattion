@@ -26,11 +26,14 @@ const imagem = [
    {
         'id': '9' , 'url': '9.jpg'
     },
+   {
+        'id': '10' , 'url': '10.jpg'
+    },
     {
-        'id': '10' , 'url': 'SSG_profile1.webp'
+        'id': '11' , 'url': 'SSG_profile1.webp'
     },
      {
-        'id': '11' , 'url': '10.jpg'
+        'id': '12' , 'url': '11.jpg'
     },
     
 ]

@@ -1,3 +1,27 @@
+@charset  "utf-8";
+
+body{
+    
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+background-size: ;
+background-color: black;
+
+
+}
+    
+
+.container-slide{
+    display: flex;
+    justify-content: space-between;
+    
+    width: 100vw;
+    height: 100vh;
+    margin: 100px auto;
+    
+    background-color: black;
+    border-radius: 0px;
 }
 
 .container-items{

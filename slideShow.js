@@ -30,7 +30,7 @@ const imagem = [
         'id': '10' , 'url': 'IMG_1026.jpeg'
     },
     {
-        'id': '11' , 'url': 'IMG_1027.jped'
+        'id': '11' , 'url': 'IMG_1027.jpeg'
     },
     {
         'id': '12' , 'url': 'IMG_1028.jpeg'

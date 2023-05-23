@@ -27,15 +27,9 @@ const imagem = [
         'id': '9' , 'url': 'IMG_1045.jpeg' 
     },
    {
-        'id': '10' , 'url': 'IMG_1046.jpeg'
+        'id': '10' , 'url': 'IMG_1047.jpeg'
     },
-    {
-        'id': '11' , 'url': 'IMG_1027.jpeg'
-    },
-    {
-        'id': '12' , 'url': 'IMG_1028.jpeg'
-    }, 
-    
+   
 ]
 
 const containerItems = document.querySelector('#container-items');

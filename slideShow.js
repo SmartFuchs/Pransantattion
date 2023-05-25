@@ -61,3 +61,9 @@ const next = () => {
 
 document.querySelector('#previous').addEventListener('click', previous);
 document.querySelector('#next').addEventListener('click', next);
+
+
+
+  setTimeout(function() {
+  document.getElementById('button').style.display = 'block';
+}, 10000);
